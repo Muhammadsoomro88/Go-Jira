@@ -1,0 +1,7 @@
+Story number: KJ-30
+Issue Type: Task
+Assignee: {Muhammad Soomro}
+Status: In Progress
+Description: Need to Document the create Campaign Process
+Story Points: 2.00
+Creator: Jeff Dupont

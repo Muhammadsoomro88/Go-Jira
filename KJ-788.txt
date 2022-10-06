@@ -1,0 +1,7 @@
+Story number: KJ-788
+Issue Type: Task
+Assignee: {Muhammad Soomro}
+Status: In Progress
+Description: Self Learning 
+Story Points: 0.00
+Creator: Muhammad Soomro
