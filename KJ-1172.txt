@@ -1,7 +1,0 @@
-Story number: KJ-1172
-Issue Type: Task
-Assignee: {Muhammad Soomro}
-Status: Code Complete
-Description: Discovery of Update and Delete
-Story Points: 0.50
-Creator: Ali Huzaifa Malik
