@@ -1,7 +1,0 @@
-Story number: KJ-1234
-Issue Type: Bug
-Assignee: {Muhammad Soomro}
-Status: Released
-Description: advertiser throws 500
-Story Points: 0.50
-Creator: laksh
